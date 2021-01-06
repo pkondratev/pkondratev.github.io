@@ -31,7 +31,6 @@ main {
 
 main > .title {
     font-size: 40pt;
-    letter-spacing: 8px;
     text-transform: uppercase;
 }
 
@@ -57,4 +56,13 @@ footer > .site-link > a {
     font-size: 16pt;
     font-weight: 100;
     color: white;
+}
+
+@media (orientation: portrait) {
+    main > .title {
+        font-size: 10vw;
+    }
+    main > .subtitle {
+        font-size: 6vw;
+    }
 }
