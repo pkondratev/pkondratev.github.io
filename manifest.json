@@ -1,11 +1,11 @@
 {
-    "name": "pkondratev_github_io_flutter",
-    "short_name": "pkondratev_github_io_flutter",
+    "name": "PKondratev - Павел Кондратьев",
+    "short_name": "PKondratev",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "CV сайт Павла Кондратьева.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
